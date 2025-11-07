@@ -1,2 +1,12 @@
 # Classification-on-wine-quality-dataset
-This is my project in classification of wine quality dataset using ensemble learning XGBoost and machine learning Random Forest
+
+Made by: Nawwaf Anshorulloh Supriyatna
+Institution: Universitas Negeri Semarang
+
+This is my project of middle test in classification of wine quality dataset using ensemble learning XGBoost, machine learning Random Forest, and Support Vector Machine.
+
+There are two dataset labeled and unlabeled.
+
+You can see the classification project in the ipynb file. There are explanation and interpretation each cell and results.
+
+Hope you got the insight of my project:)
