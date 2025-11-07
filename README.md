@@ -8,6 +8,6 @@ This is my project of middle test in classification of wine quality dataset usin
 
 There are two dataset labeled and unlabeled.
 
-You can see the classification project in the ipynb file. There are explanation and interpretation each cell and results.
+You can see the classification project in the ipynb file. There are explanation and interpretation in each cell and results.
 
 Hope you got the insight of my project:)
