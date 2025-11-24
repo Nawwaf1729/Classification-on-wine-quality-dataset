@@ -20,9 +20,3 @@ The target variable: quality (an integer score, commonly from 0–10, or as defi
 - Python version 3.8 or higher (recommended).  
 - Virtual environment (venv, conda, or similar) to isolate dependencies.  
 - Required Python libraries (e.g., `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`)
-
-### Installation  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Nawwaf1729/Classification-on-wine-quality-dataset.git
-   cd Classification-on-wine-quality-dataset
