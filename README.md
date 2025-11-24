@@ -1,5 +1,7 @@
 # Wine Quality Classification Project
 
+Made by: Nawwaf Anshorulloh Supriyatna
+
 ## Overview  
 This repository presents a **Wine Quality Classification** project, designed to classify wine quality based on physicochemical properties using machine learning algorithms. The goal is to provide a reproducible, structured workflow from data preprocessing to model evaluation, enabling researchers or practitioners to explore, refine, and deploy classification models on the wine-quality data.
 
